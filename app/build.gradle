@@ -24,7 +24,7 @@ android {
     }
     signingConfigs {
         release {
-            storeFile rootProject file("keystore.jks")
+            storeFile file("../keystore.jks")
             storePassword System.getenv("KEYSTORE_PASSWORD")
             keyAlias System.getenv("KEY_ALIAS")
             keyPassword System.getenv("KEY_PASSWORD")
@@ -52,15 +52,6 @@ android {
         exclude 'lib/*/libnative-imagetranscoder.so'
         exclude 'lib/*/libnative-filters.so'
     }
-
-//    Configures multiple APKs based on ABI.
-//    see https://developer.android.com/studio/build/configure-apk-splits#configure-abi-split
-//    splits {
-//        abi {
-//            enable true // Enables building multiple APKs per ABI.
-//            universalApk true // Specifies that we want to also generate a universal APK that includes all ABIs.
-//        }
-//    }
 }
 
 
