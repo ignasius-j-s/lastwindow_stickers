@@ -1,0 +1,3163 @@
+{
+    "android_play_store_link": "",
+    "ios_app_store_link": "",
+    "sticker_packs": [
+        {
+            "identifier": "1_LW_Kyle_1",
+            "name": "Kyle(1) [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Alarmed.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "ConfessionGet.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "Cry.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Difficulty.webp",
+                    "emojis": [
+                        "😓"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Discover.webp",
+                    "emojis": [
+                        "🧐"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Pursue.webp",
+                    "emojis": [
+                        "🧐"
+                    ]
+                },
+                {
+                    "image_file": "Question.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "Reasoning.webp",
+                    "emojis": [
+                        "🤔"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "😄"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "StandardUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Stunned.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Thoughtful.webp",
+                    "emojis": [
+                        "🤔"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                },
+                {
+                    "image_file": "WhySmile.webp",
+                    "emojis": [
+                        "😌"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "2_LW_Kyle_2",
+            "name": "Kyle(2) [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Billiards.webp",
+                    "emojis": [
+                        "🎱"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "Nagurareru.webp",
+                    "emojis": [
+                        "🥴"
+                    ]
+                },
+                {
+                    "image_file": "Naguru.webp",
+                    "emojis": [
+                        "👊",
+                        "🤜",
+                        "😎"
+                    ]
+                },
+                {
+                    "image_file": "Okiagaru.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "PocketBookLook.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "PocketBookWrite.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "QuestionGet.webp",
+                    "emojis": [
+                        "🧐"
+                    ]
+                },
+                {
+                    "image_file": "StandardGet.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "TouchCheck.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "3_LW_Mila",
+            "name": "Mila [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "MukuUp.webp",
+                    "emojis": [
+                        "✨"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "☺️"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "TelA.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "4_LW_Tony",
+            "name": "Tony [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😧"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Billiards.webp",
+                    "emojis": [
+                        "🎱"
+                    ]
+                },
+                {
+                    "image_file": "Cry.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "😔"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "😒"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "😁"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                },
+                {
+                    "image_file": "Yaa.webp",
+                    "emojis": [
+                        "👋",
+                        "😃",
+                        "🤗"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "5_LW_Sydney",
+            "name": "Sydney [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😁"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Billiards.webp",
+                    "emojis": [
+                        "🎱"
+                    ]
+                },
+                {
+                    "image_file": "Cry.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "6_LW_Claire",
+            "name": "Claire [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "🤭"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "☺️"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Billiards.webp",
+                    "emojis": [
+                        "🎱"
+                    ]
+                },
+                {
+                    "image_file": "Cry.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "🥺"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "😊"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Thunks.webp",
+                    "emojis": [
+                        "👋",
+                        "😃"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                },
+                {
+                    "image_file": "Wink.webp",
+                    "emojis": [
+                        "😉"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "7_LW_Betty",
+            "name": "Betty [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😅"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "😀"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Billiards.webp",
+                    "emojis": [
+                        "🎱"
+                    ]
+                },
+                {
+                    "image_file": "Cry.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hai.webp",
+                    "emojis": [
+                        "👋"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "☺️"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "😄"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "☺️"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "8_LW_Charles",
+            "name": "Charles [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "😯"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😠"
+                    ]
+                },
+                {
+                    "image_file": "Atama_ita.webp",
+                    "emojis": [
+                        "😣"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "😄"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                },
+                {
+                    "image_file": "Yaa.webp",
+                    "emojis": [
+                        "👋",
+                        "😃",
+                        "🤗"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "9_LW_Dylan",
+            "name": "Dylan [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "😟"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😶"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Cry.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "😔"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUpB.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                },
+                {
+                    "image_file": "Yaa.webp",
+                    "emojis": [
+                        "👋",
+                        "😃",
+                        "🤗"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "10_LW_Frank",
+            "name": "Frank [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "😟"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😟"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "😔"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "🤦"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "😀"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "11_LW_Margaret",
+            "name": "Margaret [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😌"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Atama_ita.webp",
+                    "emojis": [
+                        "😣"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "😔"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "🤨"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nageku.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Nakikuzureru.webp",
+                    "emojis": [
+                        "😭"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "☺️"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "12_LW_Marie",
+            "name": "Marie [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😌"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😶"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Cry.webp",
+                    "emojis": [
+                        "😢"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "Kibun_warui.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "😔"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "😑"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "ShockB.webp",
+                    "emojis": [
+                        "😮"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Surprise.webp",
+                    "emojis": [
+                        "😱"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "13_LW_Rex",
+            "name": "Rex [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😒"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😠"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "🙁"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuB.webp",
+                    "emojis": [
+                        "😠"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Look.webp",
+                    "emojis": [
+                        "👀",
+                        "🔍"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "😏"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "14_LW_Will",
+            "name": "Will [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Amazed.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Angry.webp",
+                    "emojis": [
+                        "😠",
+                        "😡"
+                    ]
+                },
+                {
+                    "image_file": "AskA.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "AskB.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Bad.webp",
+                    "emojis": [
+                        "😞"
+                    ]
+                },
+                {
+                    "image_file": "Discontent.webp",
+                    "emojis": [
+                        "☹️"
+                    ]
+                },
+                {
+                    "image_file": "Doubt.webp",
+                    "emojis": [
+                        "😕"
+                    ]
+                },
+                {
+                    "image_file": "Get.webp",
+                    "emojis": [
+                        "🤲"
+                    ]
+                },
+                {
+                    "image_file": "Hand.webp",
+                    "emojis": [
+                        "👐"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuA.webp",
+                    "emojis": [
+                        "🙅"
+                    ]
+                },
+                {
+                    "image_file": "KokuhakuUp.webp",
+                    "emojis": [
+                        "😐",
+                        "☠️",
+                        "💀"
+                    ]
+                },
+                {
+                    "image_file": "Laugh.webp",
+                    "emojis": [
+                        "😂",
+                        "😆"
+                    ]
+                },
+                {
+                    "image_file": "Lose.webp",
+                    "emojis": [
+                        "😩"
+                    ]
+                },
+                {
+                    "image_file": "Nod.webp",
+                    "emojis": [
+                        "👌",
+                        "👍"
+                    ]
+                },
+                {
+                    "image_file": "Refuse.webp",
+                    "emojis": [
+                        "🙅",
+                        "🙅‍♀️",
+                        "👎"
+                    ]
+                },
+                {
+                    "image_file": "Serious.webp",
+                    "emojis": [
+                        "🤔",
+                        "😤"
+                    ]
+                },
+                {
+                    "image_file": "Shock.webp",
+                    "emojis": [
+                        "😮",
+                        "😱",
+                        "😳"
+                    ]
+                },
+                {
+                    "image_file": "Silent.webp",
+                    "emojis": [
+                        "🤐"
+                    ]
+                },
+                {
+                    "image_file": "Smile.webp",
+                    "emojis": [
+                        "🙂"
+                    ]
+                },
+                {
+                    "image_file": "Standard.webp",
+                    "emojis": [
+                        "😐"
+                    ]
+                },
+                {
+                    "image_file": "Trouble.webp",
+                    "emojis": [
+                        "😨"
+                    ]
+                },
+                {
+                    "image_file": "Unknown.webp",
+                    "emojis": [
+                        "🤷",
+                        "🤷‍♀️"
+                    ]
+                },
+                {
+                    "image_file": "Up.webp",
+                    "emojis": [
+                        "🙄"
+                    ]
+                },
+                {
+                    "image_file": "Why.webp",
+                    "emojis": [
+                        "❓"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "15_LW_Others_1",
+            "name": "Others(1) [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Betty_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Betty_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Betty_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Betty_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Betty_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Charles_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Charles_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Charles_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Charles_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Charles_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Chris_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_DoorA.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_StandB.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_StandTel.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Ed_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Ed_TelA.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "Ed_TelB.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "Frank_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Frank_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Frank_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Frank_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Frank_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "George_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Jeanie_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Kathy_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "16_LW_Others_2",
+            "name": "Others(2) [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Claire_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Claire_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Claire_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Claire_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Kyle_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Kyle_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Kyle_StandBackB.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Kyle_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Margaret_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Margaret_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Margaret_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Margaret_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Margaret_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Marie_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Marie_MemoA.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Marie_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Marie_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Marie_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Marie_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Michael_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Mike_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Mila_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Mila_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Mila_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Mila_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rachel_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rachel_TelA.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "Rachel_TelB.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "Trick079A.webp",
+                    "emojis": [
+                        "👀"
+                    ]
+                },
+                {
+                    "image_file": "Trick079B.webp",
+                    "emojis": [
+                        "👀"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "17_LW_Others_3",
+            "name": "Others(3) [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Peter_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rex_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rex_MemoA.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rex_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rex_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rex_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Rex_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Spec_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Spec_MemoA.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Sydney_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Sydney_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Sydney_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Sydney_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Tony_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Tony_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Tony_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Tony_StandB.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Tony_StandBack.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Tony_StandBackB.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Tony_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Will_Memo.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Will_MemoC.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Will_Stand.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Will_StandTurn.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                }
+            ]
+        },
+        {
+            "identifier": "18_LW_BTS",
+            "name": "Behind The Scene [Last Window]",
+            "publisher": "ignasius-j-s",
+            "tray_image_file": "_Tray.png",
+            "image_data_version": "1",
+            "avoid_cache": false,
+            "publisher_email": "ignis19@pm.me",
+            "publisher_website": "https://github.com/ignasius-j-s",
+            "privacy_policy_website": "",
+            "license_agreement_website": "",
+            "animated_sticker_pack": true,
+            "stickers": [
+                {
+                    "image_file": "Betty_Stunned.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Charles_Stunned.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Dylan_Pursue.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Ed_Irritated.webp",
+                    "emojis": [
+                        "😠"
+                    ]
+                },
+                {
+                    "image_file": "Ed_TelB.webp",
+                    "emojis": [
+                        "📞"
+                    ]
+                },
+                {
+                    "image_file": "Kyle_Worry.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Margaret_Kangaekomu.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                },
+                {
+                    "image_file": "Sydney_Discover.webp",
+                    "emojis": [
+                        "👤"
+                    ]
+                }
+            ]
+        }
+    ]
+}
